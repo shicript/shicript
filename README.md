@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 - 😄 Focus on NLP and Big Data.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shicript&show_icons=true&theme=default)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shicript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
